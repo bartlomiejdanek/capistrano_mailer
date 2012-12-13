@@ -6,16 +6,13 @@ body {
 div.mail-content {
     width: 800px;
     margin: 10px auto;
-    background: #dfd;
-    border: 10px solid #6a6;
+    background: #fafafa;
 }
 
 h1 {
     clear: both;
     margin: 0;
-    padding: 40px 20px 5px 20px;
-    border-bottom: 1px dotted;
-    background: #8c8;
+    padding: 20px;
 }
 
 p.view-site, p.mail-footer {
@@ -37,8 +34,7 @@ div.section {
 div.section h2 {
     margin: 0;
     padding: 10px 10px 5px 10px;
-    background: #cfc;
-    border-left: 10px solid #6a6;
+    background: #f3f3f3;
     color: #333;
 }
 
